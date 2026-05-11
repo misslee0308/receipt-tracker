@@ -1,0 +1,17 @@
+.mcp.json
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+backend/uploads/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
